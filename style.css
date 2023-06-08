@@ -3,7 +3,7 @@ body {
     margin: 0 0;
     padding: 0 0;
     box-sizing: border-box;
-    background-image: url('/animal-pictures/bg.jpg');
+    background-image: url('animal-pictures/bg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
